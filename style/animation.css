@@ -1,0 +1,38 @@
+@keyframes animate_fading {
+	0% {
+		opacity: 1;
+	}
+    25% {
+        opacity: 1;
+    }
+	100% {
+		opacity: 0;
+    z-index: 0;
+	}
+}
+
+@keyframes animate_conten_bacgrund {
+	0% {
+		background-color: transparent;
+	}
+
+	100% {
+		background-color: rgb(226 221 226 / 70%);
+	}
+}
+
+  
+  @keyframes slideInUp {
+    0% {
+      -webkit-transform: translate3d(0, 400%, 0);
+      transform: translate3d(0, 400%, 0);
+      visibility: visible;
+    }
+  
+    100% {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  }
+  
+

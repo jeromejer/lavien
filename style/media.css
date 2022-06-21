@@ -1,0 +1,15 @@
+@media screen and (max-width: 420px) {
+    .header__title {
+        font-size: 20px;
+    }
+
+    .header__subtitle {
+        font-size: 20px;
+    }
+
+    .header__content {
+        max-width: 300px;
+
+    }
+}
+

@@ -1,0 +1,23 @@
+.whatsapp {
+    background-image: url('../images/social/whatsapp.svg');
+}
+
+.mail {
+    background-image: url('../images/social/email.svg');
+}
+
+.telegram {
+    background-image: url('../images/social/telegram.svg');
+}
+
+.instagram {
+    background-image: url('../images/social/instagram.svg');
+}
+
+.vkontakte {
+    background-image: url('../images/social/vkontakte.png');
+}
+
+.facebook {
+    background-image: url('../images/social/facebook.png');
+}
